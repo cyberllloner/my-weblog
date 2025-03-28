@@ -1,0 +1,61 @@
+baseURL = "/"
+title = "وبلاگ حسین سلمانی"
+defaultContentLanguage = "fa"
+pagination.PagerSize = 5
+theme = "PaperMod"
+
+[params.homeInfoParams]
+Title = "درود"
+Content = """
+### "به گفتار دانندگان راه جوی / به گیتی بپوی و به هر کس بگوی"
+
+#### -- حکیم ابوالقاسم فردوسی
+-
+حسین سلمانی هستم. پیوسته در حال آموختنم و با شوق، دانسته‌هایم را با دیگران تقسیم می‌کنم. ^^
+"""
+[[params.socialIcons]]
+name = "email"
+url = "mailto:hsssalmani81@gmail.com"
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/hosein-salmani"
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/cyberllloner"
+[[params.socialIcons]]
+name = "peertube"
+url = "https://example.com"
+
+[params]
+  defaultTheme = "auto"
+  description = "وبلاگ شخصی من"
+  keywords = ["وبلاگ", "فارسی"]
+  font = "custom" # Disable theme's default font
+  customCSS = ["css/extended/vazir.css"]
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = true
+  author = [ "حسین سلمانی" ]
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "خانه"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "تگ‌ها"
+    url = "/tags"
+    weight = 2
+  [[menu.main]]
+    identifier = "archives"
+    name = "آرشیو"
+    url = "/archives"
+    weight = 3
+
+[languages.fa]
+  languageName = "فارسی"
+  languageDirection = "rtl"
+  weight = 1
