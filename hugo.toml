@@ -37,6 +37,7 @@ url = "https://example.com"
   ShowCodeCopyButtons = true
   ShowShareButtons = true
   author = [ "حسین سلمانی" ]
+  ignoreErrors = ["error-remote-getjson"]
 
 [menu]
   [[menu.main]]

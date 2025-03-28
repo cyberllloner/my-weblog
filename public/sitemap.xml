@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hoseinsalmani.pages.dev/posts/</loc>
+    <loc>//localhost:35593/posts/</loc>
     <lastmod>2025-03-28T12:45:57+03:30</lastmod>
   </url><url>
-    <loc>https://hoseinsalmani.pages.dev/tags/%D8%AA%D8%B3%D8%AA/</loc>
+    <loc>//localhost:35593/tags/%D8%AA%D8%B3%D8%AA/</loc>
     <lastmod>2025-03-28T12:45:57+03:30</lastmod>
   </url><url>
-    <loc>https://hoseinsalmani.pages.dev/tags/</loc>
+    <loc>//localhost:35593/tags/</loc>
     <lastmod>2025-03-28T12:45:57+03:30</lastmod>
   </url><url>
-    <loc>https://hoseinsalmani.pages.dev/tags/%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF/</loc>
+    <loc>//localhost:35593/tags/%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF/</loc>
     <lastmod>2025-03-28T12:45:57+03:30</lastmod>
   </url><url>
-    <loc>https://hoseinsalmani.pages.dev/posts/test/</loc>
+    <loc>//localhost:35593/posts/test/</loc>
     <lastmod>2025-03-28T12:45:57+03:30</lastmod>
   </url><url>
-    <loc>https://hoseinsalmani.pages.dev/</loc>
+    <loc>//localhost:35593/</loc>
     <lastmod>2025-03-28T12:45:57+03:30</lastmod>
   </url><url>
-    <loc>https://hoseinsalmani.pages.dev/categories/</loc>
+    <loc>//localhost:35593/categories/</loc>
   </url><url>
-    <loc>https://hoseinsalmani.pages.dev/archives/</loc>
+    <loc>//localhost:35593/archives/</loc>
   </url>
 </urlset>
