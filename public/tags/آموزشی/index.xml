@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>پست‌ها on وبلاگ حسین سلمانی</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in پست‌ها on وبلاگ حسین سلمانی</description>
+    <title>آموزشی on وبلاگ حسین سلمانی</title>
+    <link>//localhost:1313/tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/</link>
+    <description>Recent content in آموزشی on وبلاگ حسین سلمانی</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>fa</language>
     <lastBuildDate>Wed, 02 Apr 2025 10:51:05 +0330</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tor با ProxyChains و مرورگر Tor</title>
       <link>//localhost:1313/posts/tor-via-proxychains-tor-browser/</link>
       <pubDate>Wed, 02 Apr 2025 10:51:05 +0330</pubDate>
       <guid>//localhost:1313/posts/tor-via-proxychains-tor-browser/</guid>
       <description>&lt;p&gt;درود به همگی، امیدوارم حال دلتون خوب باشه. ^^ این اولین پست وبلاگمه. در کل قراره توی این وبلاگ درمورد همه چیز بنویسم که البته تمرکزم روی محتوای متنی آموزشی مرتبط با موضوعات فنی هست. هدفم اینه چیزایی که بلدم رو با شما به اشتراک بگذارم همونطور که دیگران دانشی که داشتن رو آزادانه به اشتراک گذاشتن و ما استفاده کردیم! بنظرم این یکی از باحال ترین چرخه‌های موجوده :)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>نوشته آزمایشی</title>
-      <link>//localhost:1313/posts/test/</link>
-      <pubDate>Fri, 28 Mar 2025 12:45:57 +0330</pubDate>
-      <guid>//localhost:1313/posts/test/</guid>
-      <description>&lt;p&gt;نوشته آزمایشی&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -3,7 +3,6 @@ title = "وبلاگ حسین سلمانی"
 defaultContentLanguage = "fa"
 pagination.PagerSize = 5
 theme = "PaperMod"
-
 [params.homeInfoParams]
 Title = "درود"
 Content = """
@@ -13,6 +12,10 @@ Content = """
 -
 حسین سلمانی هستم. پیوسته در حال آموختنم و با شوق، دانسته‌هایم را با دیگران تقسیم می‌کنم. ^^
 """
+
+[[params.socialIcons]]
+name = "kofi"
+url = "https://coffeebede.com/numblxrd"
 [[params.socialIcons]]
 name = "email"
 url = "mailto:hsssalmani81@gmail.com"
@@ -22,9 +25,6 @@ url = "https://www.linkedin.com/in/hosein-salmani"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/cyberllloner"
-[[params.socialIcons]]
-name = "peertube"
-url = "https://example.com"
 
 [params]
   defaultTheme = "auto"
@@ -60,3 +60,7 @@ url = "https://example.com"
   languageName = "فارسی"
   languageDirection = "rtl"
   weight = 1
+
+[module]
+  [[module.imports]]
+    path = 'github.com/hugomods/images'
