@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>نرمافزار آزاد on وبلاگ حسین سلمانی</title>
+    <title>نرم‌افزار آزاد on وبلاگ حسین سلمانی</title>
     <link>//localhost:1313/tags/%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF/</link>
-    <description>Recent content in نرمافزار آزاد on وبلاگ حسین سلمانی</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <description>Recent content in نرم‌افزار آزاد on وبلاگ حسین سلمانی</description>
+    <generator>Hugo -- 0.146.5</generator>
     <language>fa</language>
-    <lastBuildDate>Wed, 02 Apr 2025 10:51:05 +0330</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 09:07:17 +0330</lastBuildDate>
     <atom:link href="//localhost:1313/tags/%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%D8%A2%D8%B2%D8%A7%D8%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>فروش نرم‌افزار آزاد</title>
+      <link>//localhost:1313/posts/selling-free-software/</link>
+      <pubDate>Thu, 24 Apr 2025 09:07:17 +0330</pubDate>
+      <guid>//localhost:1313/posts/selling-free-software/</guid>
+      <description>&lt;p&gt;درود به همگی. امیدوارم که در خوشی و تندرستی کامل به سر ببرید. راستش موضوع این پست خیلی یهویی زد و به سرم. تصمیم گرفتم درمورد فروش نرم‌افزار آزاد یک مقداری صحبت کنم باهاتون. قرار نیست درمورد استراتژی های فروش نرم‌افزار آزاد صحبت کنیم. قراره درمورد مفهومی که داره صحبت کنیم. تا به امروز با آدمای زیادی هم صحبت شدم که فروش نرم‌افزار آزاد براشون عجیب و گنگ بوده. نکته جالب اینجاست که نیمی از این افراد جزو مبتدی ها نبودن! یعنی کسایی بودن که تا حد قابل قبولی درمورد چهار آزادی اصلی نرم‌افزار و بنیاد های جنبش نرم‌افزار آزاد میدونستن. این میتونه چند تا دلیل داشته باشه. یک سری از افراد در حالی که میدونن چهار تا آزادی چیه هنوز بخشی از ذهنشون واژه &amp;ldquo;Free&amp;rdquo; رو همزمان &amp;ldquo;آزاد&amp;rdquo; و &amp;ldquo;رایگان&amp;rdquo; میدونه. وقتی از این دسته از افراد پرسیدم چرا اینطوری فکر میکنید در جوابم گفتن &amp;ldquo;خب همه نرم‌افزار های آزاد که تا امروز دیدم رایگان بودن&amp;rdquo;. من فکر میکنم این یکی از دلایل مهم هست که در نوشته های موجود در سایت GNU همیشه پیشنهاد شده از واژه &amp;ldquo;Libre&amp;rdquo; استفاده کنیم. فرض کنید قصد دارید نرم‌افزار آزادی که توسعه دادید و رایگان هم هست را در دسترس عموم قرار بدید. هویت نرم‌افزار شما مشخصه اما بهتره که درمورد کج فهمی عموم حساس باشید. قرار نیست تنها افرادی که میدونن نرم‌افزار آزاد چی هست کاربر نرم‌افزاری باشند که شما توسعه دادید. در این حالت نرم‌افزار آزادی که شما توسعه دادید شامل مقداری پتانسیل برای تبلیغ نرم‌افزار آزاده و ابزار شما برای قدم برداشتن در مسیر جنبش نرم‌افزار آزاد هست. مشخصه کسایی که با نرم‌افزار آزاد آشنا نیستن با عنوان شماره یک هویت نرم‌افزار رو به درستی متوجه میشن و باعث درک بهتری میشه اونم وقتی هنوز که هنوزه ترجمه اشتباه واژه &amp;ldquo;Free&amp;rdquo; برای معرفی یک نرم‌افزار آزاد استفاده میشه و البته تنها ترجمه که عموم مردم از این واژه دارند &amp;ldquo;رایگان&amp;rdquo; هست!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tor با ProxyChains و مرورگر Tor</title>
       <link>//localhost:1313/posts/tor-via-proxychains-tor-browser/</link>
       <pubDate>Wed, 02 Apr 2025 10:51:05 +0330</pubDate>
       <guid>//localhost:1313/posts/tor-via-proxychains-tor-browser/</guid>
       <description>&lt;p&gt;درود به همگی، امیدوارم حال دلتون خوب باشه. ^^ این اولین پست وبلاگمه. در کل قراره توی این وبلاگ درمورد همه چیز بنویسم که البته تمرکزم روی محتوای متنی آموزشی مرتبط با موضوعات فنی هست. هدفم اینه چیزایی که بلدم رو با شما به اشتراک بگذارم، همونطور که دیگران دانشی که داشتن رو آزادانه به اشتراک گذاشتن و ما استفاده کردیم! بنظرم این یکی از باحال ترین چرخه‌های موجوده :)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>نوشته آزمایشی</title>
+      <link>//localhost:1313/posts/test/</link>
+      <pubDate>Fri, 28 Mar 2025 12:45:57 +0330</pubDate>
+      <guid>//localhost:1313/posts/test/</guid>
+      <description>&lt;p&gt;نوشته آزمایشی&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
