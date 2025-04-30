@@ -35,7 +35,7 @@ url = "https://github.com/cyberllloner"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowCodeCopyButtons = true
-  ShowShareButtons = true
+  ShowShareButtons = false
   author = [ "حسین سلمانی" ]
   ignoreErrors = ["error-remote-getjson"]
 
