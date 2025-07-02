@@ -1,7 +1,7 @@
 baseURL = "/"
 title = "وبلاگ حسین سلمانی"
 defaultContentLanguage = "fa"
-pagination.PagerSize = 6
+pagination.PagerSize = 7
 theme = "PaperMod"
 [params.homeInfoParams]
 Title = "درود"
