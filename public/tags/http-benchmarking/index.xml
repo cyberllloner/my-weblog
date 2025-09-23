@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HTTP Benchmarking on وبلاگ حسین سلمانی</title>
+    <link>//localhost:1313/tags/http-benchmarking/</link>
+    <description>Recent content in HTTP Benchmarking on وبلاگ حسین سلمانی</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>fa</language>
+    <lastBuildDate>Mon, 22 Sep 2025 21:15:42 +0330</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/http-benchmarking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>خروجی Apache Bench در قالبی مختصر و قابل فهم</title>
+      <link>//localhost:1313/posts/apache-bench-output-summary/</link>
+      <pubDate>Mon, 22 Sep 2025 21:15:42 +0330</pubDate>
+      <guid>//localhost:1313/posts/apache-bench-output-summary/</guid>
+      <description>&lt;p&gt;درود. امیدوارم که حال دلتون خوب باشه. بعد از کلی وقت بالاخره فرصت شد که دست به کیبورد بشم و یه پست جدید بنویسم. سعی دارم که بیشتر بنویسم و هر موضوع جالبی که برای به اشتراک گذاشتن دارم رو اینجا با شما به اشتراک بگذارم. قبلاً برام مهم بود که حتماً به مقدار زیاد بنویسم و موضوع خاصی داشته باشم اما از این به بعد، چه خیلی کم باشه و یا خیلی زیاد، مایلم راجبش بنویسم و اون رو انتقال بدم.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
