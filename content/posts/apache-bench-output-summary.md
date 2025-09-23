@@ -1,6 +1,6 @@
 +++
 date = '2025-09-22T21:15:42+03:30'
-draft = true
+draft = false
 title = 'خروجی Apache Bench در قالبی مختصر و قابل فهم'
 tags = ["نرم‌افزار آزاد", "آموزشی", "HTTP Benchmarking", "Apache Bench"]
 +++
