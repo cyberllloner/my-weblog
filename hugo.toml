@@ -15,7 +15,7 @@ Content = """
 
 [[params.socialIcons]]
 name = "kofi"
-url = "https://coffeebede.com/numblxrd"
+url = "https://www.coffeete.ir/cyberllloner"
 [[params.socialIcons]]
 name = "email"
 url = "mailto:hsssalmani81@gmail.com"
@@ -33,7 +33,7 @@ url = "https://github.com/cyberllloner"
   font = "custom" # Disable theme's default font
   customCSS = ["css/extended/vazir.css"]
   ShowReadingTime = true
-  ShowPostNavLinks = true
+  ShowPostNavLinks = false
   ShowCodeCopyButtons = true
   ShowShareButtons = false
   author = [ "حسین سلمانی" ]
